@@ -28,23 +28,7 @@ public class EchoClient {
 				out.println(message);
 				System.out.println("Server> " + br.readLine());
 				System.out.print("Client> ");
-			}
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+			}	
 		}
 
 	}
